@@ -1,0 +1,33 @@
+{
+    "dialogues": [
+        {
+            "user_input": "hello doctor",
+            "bot_reply": "sollunga enna aachu ungalukku?"
+        },
+      {
+        "user_input": "I have a headache.",
+        "bot_reply": "I'm sorry to hear that. How long have you been experiencing the headache? Have you taken any medication so far?"
+      },
+      {
+        "user_input": "Can I take paracetamol for fever?",
+        "bot_reply": "Yes, you can take paracetamol to reduce fever, but ensure you follow the dosage instructions on the label. If the fever persists, consult a doctor."
+      },
+      {
+        "user_input": "How do I manage stress?",
+        "bot_reply": "To manage stress, try practicing deep breathing, regular exercise, and maintaining a healthy diet. If it feels overwhelming, consider speaking with a mental health professional."
+      },
+      {
+        "user_input": "What should I do for a sore throat?",
+        "bot_reply": "Gargling with warm salt water can help. Stay hydrated and avoid irritants like smoke. If symptoms last more than a few days, you should consult a doctor."
+      },
+      {
+        "user_input": "Can you help me book an appointment?",
+        "bot_reply": "Sure! Please provide your preferred date, time, and the doctor or specialist you'd like to see."
+      },
+      {
+        "user_input": "What are the side effects of antibiotics?",
+        "bot_reply": "Common side effects include nausea, diarrhea, and stomach upset. If you experience severe reactions like a rash or difficulty breathing, seek immediate medical attention."
+      }
+    ]
+  }
+  
